@@ -83,7 +83,7 @@ Project中的build.gradle添加
     <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
 ```
 
-### 处理Gif传过来的图片流
+### 处理图片
 
 首先我们先初始化TengineKit:
 1. 选用normal处理模式
